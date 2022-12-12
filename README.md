@@ -1,2 +1,2 @@
 # EduQuadre
-projet mené dans le cadre dela création fictive d'une entreprise
+projet mené dans le cadre de la création fictive d'une entreprise
