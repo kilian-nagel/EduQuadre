@@ -21,6 +21,10 @@
     flex-basis: 400px;
 }
 
+#partenaires > .container{
+/*     max-width: 720px !important;
+ */}
+
 @media screen and (max-width:992px) {
     #home > .container , #marque > .container , #ethique > .container {
         display: flex !important;  
