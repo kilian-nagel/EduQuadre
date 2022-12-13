@@ -1,0 +1,43 @@
+
+
+.bg-light-gray {
+    background: #E6E6E3;
+}
+
+#home .profile {
+    top:-30px;
+}
+
+.flex-basis-50{
+    flex-basis: 50%;
+}
+.flex-basis-67{
+    flex-basis: 67%;
+}
+.flex-basis-33{
+    flex-basis: 33%;
+}
+.flex-basis-400px {
+    flex-basis: 400px;
+}
+
+@media screen and (max-width:992px) {
+    #home > .container , #marque > .container , #ethique > .container {
+        display: flex !important;  
+        align-items: flex-start !important;
+        flex-direction: column !important;
+    }
+    #marque img , #ethique img {
+        width:min(400px,100%) !important;
+    }
+    .text-box {
+        flex-basis: 0px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #home , #marque , #ethique , #gallerie , #partenaires{
+        padding-right:0 !important;
+        padding-left: 0 !important;
+    }
+}
