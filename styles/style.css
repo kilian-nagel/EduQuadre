@@ -31,9 +31,6 @@
         align-items: flex-start !important;
         flex-direction: column !important;
     }
-    #marque img , #ethique img {
-        width:min(400px,100%) !important;
-    }
     .text-box {
         flex-basis: 0px !important;
     }
