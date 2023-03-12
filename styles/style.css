@@ -33,7 +33,7 @@ p , .text ,a  {
 }
 
 @media screen and (max-width:992px) {
-    #home > .container , #marque > .container , #ethique > .container , #partenaires > .container {
+    #home > .container , #marque > .container , #ethique > .container {
         display: flex !important;  
         align-items: flex-start !important;
         flex-direction: column !important;
