@@ -1,4 +1,11 @@
 
+body {
+    font-family: 'Inter', sans-serif !important; 
+}
+
+p , .text ,a  {
+    font-family: 'Roboto',sans-serif !important;
+}
 
 .bg-light-gray {
     background: #E6E6E3;
