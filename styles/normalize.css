@@ -4,3 +4,13 @@
     padding:0;
     box-sizing: border-box;
 }
+
+:root {
+    --periwinkle:#A6B1E1;
+    --marianblue:#424874;
+    --japanblush:#DCD6F7;
+    --lynxwhite:#f5f5f5;
+    --eyeblue:#2081c3;
+    --larimarblue:#2374AB;
+    --zaffre:#5D8AA8;
+}
