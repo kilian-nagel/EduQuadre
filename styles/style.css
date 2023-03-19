@@ -24,10 +24,6 @@ p , .text ,a  {
     flex-basis: 400px;
 }
 
-#footer a {
-    color:white;
-}
-
 @media screen and (max-width:992px) {
     #home > .container , #marque > .container , #ethique > .container {
         display: flex !important;  
