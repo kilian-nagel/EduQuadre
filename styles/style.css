@@ -7,23 +7,6 @@ p , .text ,a  {
     font-family: 'Roboto',sans-serif !important;
 }
 
-#home .profile {
-    top:-30px;
-}
-
-.flex-basis-50{
-    flex-basis: 50%;
-}
-.flex-basis-67{
-    flex-basis: 67%;
-}
-.flex-basis-33{
-    flex-basis: 33%;
-}
-.flex-basis-400px {
-    flex-basis: 400px;
-}
-
 @media screen and (max-width:992px) {
     #home > .container , #marque > .container , #ethique > .container {
         display: flex !important;  
