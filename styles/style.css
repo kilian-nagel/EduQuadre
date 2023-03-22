@@ -7,8 +7,6 @@ p , .text ,a  {
     font-family: 'Roboto',sans-serif !important;
 }
 
-.contact-link {background: var(--zaffre);}
-
 @media screen and (max-width:992px) {
     #home > .container , #marque > .container , #ethique > .container {
         display: flex !important;  
